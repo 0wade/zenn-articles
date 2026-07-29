@@ -3,7 +3,7 @@ title: "HTTPヘッダーを書き換える理由を整理する"
 emoji: "🔄"
 type: "tech"
 topics: ["http", "security", "web", "applicationgateway"]
-published: false
+published: true
 ---
 
 ## はじめに
